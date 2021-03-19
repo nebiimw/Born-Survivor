@@ -7,7 +7,7 @@
 2. Wong Yung Kwan 3035706067
 
 ## Game Description:
-•	 Born survivor is a text-based fortress adventure RPG(role-playing game). In the beginning of this game, the main character who called Tony gets lost in a fortress which is full of crisis. The player is going to help Tony escape the inexperienced area. Every day, the player ought to make the right decisions to stay in healthy condition. If some decision is made wrongly, it potentially leads the character to face some dangerous situations, for example eating poisonous food and a beast! If you are lucky enough, come and help misfortune Tony!
+Born survivor is a text-based fortress adventure RPG(role-playing game). In the beginning of this game, the main character who called Tony gets lost in a fortress which is full of crisis. The player is going to help Tony escape the inexperienced area. Every day, the player ought to make the right decisions to stay in healthy condition. If some decision is made wrongly, it potentially leads the character to face some dangerous situations, for example eating poisonous food and a beast! If you are lucky enough, come and help misfortune Tony!
 	
 
 ## Instruction 
