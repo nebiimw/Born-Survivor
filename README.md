@@ -10,7 +10,7 @@
 •	 Born survivor is a text-based fortress adventure RPG(role-playing game). In the beginning of this game, the main character who called Tony gets lost in a fortress which is full of crisis. The player is going to help Tony escape the inexperienced area. Every day, the player ought to make the right decisions to stay in healthy condition. If some decision is made wrongly, it potentially leads the character to face some dangerous situations, for example eating poisonous food and a beast! If you are lucky enough, come and help misfortune Tony!
 	
 
-Instruction 
+## Instruction 
 
 
 *	Firstly, you need to create or login your account.
@@ -24,20 +24,20 @@ Instruction
 	*	Option 4: Move forward
 *	Players will be given the option to exit the game and save his progress on the home page.
  
-List of features
+## List of features
 *	Dynamic memory management:
 	*	To store the player’s username and his playing progress using dynamic memory manipulation in files.
 *	Data structures for storing game status:
 	*	To create a class() function to initialize the basic information based on what character that the user chooses. 
 	*	To utilize integer array, struct, class, STL containers and pointer to save the game progress.
-•	File input/output:
-o	Files shall be used to store the player's game progress and output it in txt files.
-•	Program codes in multiple files:
-o	Main.cpp includes major functions like allowing players to decide what Tony to do in the next step.
-o	Main.cpp can keep showing Tony’s health value, attack power and mental state.
-o	Main.cpp will have different files like food.h, event.h and so on.
-•	Generation of random game sets or events: 
-o	Outcomes of random draw of dice determine various events and animals of the game that Tony will encounter.
+*	File input/output:
+	*	Files shall be used to store the player's game progress and output it in txt files.
+*	Program codes in multiple files:
+	*	Main.cpp includes major functions like allowing players to decide what Tony to do in the next step.
+	*	Main.cpp can keep showing Tony’s health value, attack power and mental state.
+	*	Main.cpp will have different files like food.h, event.h and so on.
+*	Generation of random game sets or events: 
+	*	Outcomes of random draw of dice determine various events and animals of the game that Tony will encounter.
  
  
 
