@@ -1,13 +1,13 @@
-#COMP2113-ENGG1340-Group Project
-#Project Name: Born Survivor
+# COMP2113-ENGG1340-Group Project
+# Project Name: Born Survivor
 
-#Group member:
+# Group member:
 	
-1.Chung Ching Long 3035641516
-2.Wong Yung Kwan 3035706067
+1. Chung Ching Long 3035641516
+2. Wong Yung Kwan 3035706067
 
-##Game Description:
-•	Born survivor is a text-based fortress adventure RPG(role-playing game). In the beginning of this game, the main character who called Tony gets lost in a fortress which is full of crisis. The player is going to help Tony escape the inexperienced area. Every day, the player ought to make the right decisions to stay in healthy condition. If some decision is made wrongly, it potentially leads the character to face some dangerous situations, for example eating poisonous food and a beast! If you are lucky enough, come and help misfortune Tony!
+## Game Description:
+•	 Born survivor is a text-based fortress adventure RPG(role-playing game). In the beginning of this game, the main character who called Tony gets lost in a fortress which is full of crisis. The player is going to help Tony escape the inexperienced area. Every day, the player ought to make the right decisions to stay in healthy condition. If some decision is made wrongly, it potentially leads the character to face some dangerous situations, for example eating poisonous food and a beast! If you are lucky enough, come and help misfortune Tony!
 	
 
 Instruction 
@@ -42,5 +42,4 @@ o	Outcomes of random draw of dice determine various events and animals of the ga
  
 
 
-![image](https://user-images.githubusercontent.com/78600524/111756294-03e9d600-88d5-11eb-9156-083ce781dafa.png)
-**
+
